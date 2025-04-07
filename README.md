@@ -54,7 +54,14 @@ The dataset contains the following fields:
 
 ---
 
+### Final Result
 
+- Logistic Regression outperformed all other models, achieving the highest accuracy (0.822), precision (0.856), recall (0.856), F1 score (0.856), and ROC AUC score (0.862). While the Decision Tree model showed the same performance notable improvement after hyperparameter tuning, it still fell short of Logistic Regression, particularly in ROC AUC score 0.86 to 0.81. The Support Vector Classifier, despite some tuning, delivered good performance but did not surpass Logistic Regression in any key metric, highlighting Logistic Regression's overall superiority in this analysis.
+- Visualizations revealed significant differences in recipe categories between high-traffic and other recipes.
+
+- High-traffic recipes favored categories like Potato , Beverages , and Pork , while lower-traffic recipes leaned toward Breakfast , Chicken , and Dessert .
+
+- Nutritional attributes (calories, carbohydrates, sugar, protein) showed weak correlations with traffic levels, indicating that these factors alone are not strong predictors of popularity.
 
 
 
