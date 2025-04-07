@@ -54,13 +54,7 @@ The dataset contains the following fields:
 
 ---
 
-##  Key Findings
 
-- Certain recipe categories (e.g. Desserts, One Dish Meals) are more likely to trigger high traffic
-- Nutritional features like sugar and protein content show patterns linked to popularity
-- The Random Forest model outperformed the baseline, with accuracy close to the 80% target
-
----
 
 
 
