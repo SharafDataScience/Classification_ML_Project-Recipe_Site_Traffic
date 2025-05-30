@@ -63,6 +63,10 @@ The dataset contains the following fields:
 
 - Nutritional attributes (calories, carbohydrates, sugar, protein) showed weak correlations with traffic levels, indicating that these factors alone are not strong predictors of popularity.
 
+### Dataset & Tools
+- Dataset: Provided in the project files recipe_site_traffic_2212.csv  (From DataCamp)
+https://www.datacamp.com/datalab/w/4debb5b1-b296-4e33-9b57-200d764adc48/edit?search=recipe_site_traffic_2212.csv
+- Tools/Technologies: Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook
 
 
 
