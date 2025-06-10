@@ -44,7 +44,7 @@ The dataset contains the following fields:
 
 ###  Modeling
 - **Baseline model**: Logistic Regression
-- **Comparison model**: Random Forest Classifier
+- **Comparison model**: Support Vactor Classifier
 - Used stratified train-test splits and cross-validation
 - Evaluated with Accuracy, Precision, Recall, and F1-Score
 
