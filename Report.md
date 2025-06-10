@@ -1,3 +1,8 @@
+## Introduction
+In the competitive digital food and recipe market, user engagement is critical for driving traffic and subscriptions. Understanding which recipes are likely to attract more visitors can help platforms optimize their content strategy. This analysis focuses on predicting whether a recipe will generate high traffic using various nutritional and categorical attributes. By leveraging machine learning, the goal is to identify the patterns and features associated with popular recipes to guide decision-making for homepage content, marketing focus, and user personalization strategies.
+
+The dataset includes information such as recipe category, calories, carbohydrates, sugar, protein, servings, and a traffic indicator. However, the raw data contains inconsistencies such as missing values, incorrect data types, and ambiguous labels that need to be addressed before any analysis. By systematically cleaning, exploring, modeling, and evaluating the dataset, we aim to build a reliable predictive model and generate actionable business insights.
+
 ## Data Validation   
  - recipe: 947 unique values, no missing values, numeric (int64), matches the description. No    cleaning needed.
  - calories: 891 unique values, 52 missing values, numeric (float64). Cleaning missing values    is needed.
